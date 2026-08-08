@@ -6,7 +6,7 @@ class Solution {
             return digits;
         }
 
-        
+        //if  most digits are 9...then we start a loop afrom last
         for (int i = digits.length - 1; i >= 0; i--) {
             if (digits[i] == 9) {
                 digits[i] = 0;
@@ -16,7 +16,7 @@ class Solution {
             }
         }
 
-        
+        ////if just one elementis 9 then we take an extra space
         int[] result = new int[digits.length + 1];
         result[0] = 1;
         return result;
