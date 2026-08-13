@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -61,4 +62,16 @@
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## String
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
