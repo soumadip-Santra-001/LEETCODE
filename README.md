@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1510-stone-game-iv) |
