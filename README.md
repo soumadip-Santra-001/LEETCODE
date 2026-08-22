@@ -32,6 +32,7 @@
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1510-stone-game-iv) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
