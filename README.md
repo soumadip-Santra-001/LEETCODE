@@ -31,6 +31,7 @@
 | [0066-plus-one](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -52,6 +53,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -97,6 +100,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
