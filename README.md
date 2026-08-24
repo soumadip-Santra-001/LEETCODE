@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -31,6 +32,7 @@
 | [0066-plus-one](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -39,26 +41,31 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
