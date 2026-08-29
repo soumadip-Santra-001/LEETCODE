@@ -10,6 +10,7 @@
 | [1386-cinema-seat-allocation](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -86,6 +87,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
