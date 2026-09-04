@@ -21,6 +21,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
 |  |
 | ------- |
