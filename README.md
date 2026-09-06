@@ -50,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -101,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
