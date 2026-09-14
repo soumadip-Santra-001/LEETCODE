@@ -40,6 +40,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0066-plus-one) |
+| [0836-rectangle-overlap](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
