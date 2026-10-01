@@ -106,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1927-sum-game](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1927-sum-game) |
@@ -189,10 +190,12 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/soumadip-Santra-001/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
